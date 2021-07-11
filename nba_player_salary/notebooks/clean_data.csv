@@ -71,10 +71,10 @@ John Collins,Wake Forest,81.0,235.0,3,20,Forward-Center,Hawks,2017,1,19,18.3,1.3
 Zach Collins,Gonzaga,83.0,250.0,3,33,Forward-Center,Trail Blazers,2017,1,10,7.0,1.5,6.3,0.054,6384787.0,23,3
 Mike Conley,Ohio State,73.0,175.0,13,10,Guard,Jazz,2007,1,4,16.4,5.5,3.4,0.125,34502132.0,33,13
 Pat Connaughton,Notre Dame,77.0,209.0,5,24,Guard,Bucks,2015,2,41,6.9,1.3,4.5,0.082,5333333.333333333,28,5
-DeMarcus Cousins,Kentucky,82.0,270.0,9,,Center,,2010,1,5,9.6,2.4,7.6,0.127,110998.0,30,10
+DeMarcus Cousins,Kentucky,82.0,270.0,9,24,Center,Bucks,2010,1,5,9.6,2.4,7.6,0.127,110998.0,30,10
 Robert Covington,Tennessee State,79.0,209.0,7,23,Forward,Trail Blazers,Undrafted,Undrafted,Undrafted,8.6,1.7,6.7,0.073,12556908.0,30,7
 Torrey Craig,South Carolina Upstate,79.0,221.0,3,12,Forward,Suns,Undrafted,Undrafted,Undrafted,2.9,0.9,2.4,0.061,1620564.0,30,3
-Jae Crowder,Marquette,78.0,235.0,8,99,Forward,Suns,2012,2,34,10.1,2.0,5.0,0.088,9720900.0,30,8
+Jae Crowder,Marquette,78.0,235.0,8,99,Forward,Suns,2012,2,34,10.1,2.0,5.0,0.088,9720900.0,31,8
 Jarrett Culver,Texas Tech,78.0,195.0,1,23,Guard-Forward,Timberwolves,2019,1,6,6.8,0.8,4.3,0.059,7856498.25,22,1
 Seth Curry,Duke,74.0,185.0,6,31,Guard,76ers,Undrafted,Undrafted,Undrafted,12.9,2.9,2.2,0.082,8179540.0,30,7
 Stephen Curry,Davidson,75.0,185.0,11,30,Guard,Warriors,2009,1,7,29.0,6.2,5.3,0.176,44393664.0,33,11
@@ -93,7 +93,7 @@ Sekou Doumbouya,Limoges,80.0,230.0,1,45,Forward,Pistons,2019,1,15,3.9,0.6,2.2,0.
 PJ Dozier,South Carolina,78.0,205.0,3,35,Guard-Forward,Nuggets,Undrafted,Undrafted,Undrafted,7.7,1.6,3.8,0.087,1836828.0,24,3
 Goran Dragic,Union Olimpija,75.0,190.0,12,7,Guard,Heat,2008,2,45,13.9,4.9,3.3,0.102,18720000.0,35,12
 Andre Drummond,Connecticut,82.0,279.0,8,3,Center,Cavaliers,2012,1,9,17.5,2.6,13.5,0.153,554988.0,27,8
-Jared Dudley,Boston College,78.0,237.0,13,10,Forward,Lakers,2007,1,22,0.5,0.5,1.7,0.057,1620564.0,35,13
+Jared Dudley,Boston College,78.0,237.0,13,10,Forward,Lakers,2007,1,22,0.5,0.5,1.7,0.057,1620564.0,36,13
 Kris Dunn,Providence,75.0,205.0,4,32,Guard,Hawks,2016,1,5,7.3,3.4,3.6,0.082,4886175.0,27,4
 Kevin Durant,Texas,82.0,240.0,12,7,Forward,Nets,2007,1,2,29.0,5.3,7.3,0.163,42018900.0,32,13
 Carsen Edwards,Purdue,71.0,200.0,1,4,Guard,Celtics,2019,2,33,5.1,0.6,1.1,0.076,1743761.0,23,1
@@ -103,7 +103,7 @@ Drew Eubanks,Oregon State,81.0,245.0,2,14,Forward-Center,Spurs,Undrafted,Undraft
 Dante Exum,Australian Institute of Sport,77.0,214.0,5,5,Guard,Rockets,2014,1,5,3.8,2.2,2.8,0.058,9600000.0,25,6
 Tacko Fall,Central Florida,89.0,311.0,1,99,Center,Celtics,Undrafted,Undrafted,Undrafted,2.9,0.2,2.4,0.094,1669178.0,25,1
 Derrick Favors,Georgia Tech,81.0,265.0,10,15,Forward,Jazz,2010,1,3,5.9,0.9,5.3,0.111,9720900.0,29,10
-Cristiano Felicio,Flamengo,83.0,270.0,5,6,Forward-Center,Bulls,Undrafted,Undrafted,Undrafted,1.6,0.7,1.7,0.166,7529020.0,28,5
+Cristiano Felicio,Flamengo,83.0,270.0,5,6,Forward-Center,Bulls,Undrafted,Undrafted,Undrafted,1.6,0.7,1.7,0.166,7529020.0,29,5
 Bruno Fernando,Maryland,81.0,240.0,1,24,Forward-Center,Hawks,2019,2,34,1.5,0.4,3.0,0.073,1842959.3333333333,22,1
 Bryn Forbes,Michigan State,74.0,205.0,4,7,Guard,Bucks,Undrafted,Undrafted,Undrafted,9.5,0.6,1.2,0.068,2395573.5,27,4
 Evan Fournier,Poitiers Basket 86,79.0,205.0,8,10,Guard-Forward,Magic,2012,1,20,19.6,3.7,3.0,0.107,17450000.0,28,8
@@ -173,7 +173,7 @@ Reggie Jackson,Boston College,74.0,208.0,9,1,Guard,Clippers,2011,1,24,8.7,2.8,2.
 Justin James,Wyoming,79.0,190.0,1,10,Guard-Forward,Kings,2019,2,40,2.1,0.5,0.5,0.051,1842959.3333333333,24,1
 LeBron James,St. Vincent-St. Mary HS (OH),81.0,250.0,17,23,Forward,Lakers,2003,1,1,25.4,7.9,7.9,0.194,41625032.666666664,36,17
 DaQuan Jeffries,Tulsa,77.0,230.0,1,19,Guard-Forward,Kings,Undrafted,Undrafted,Undrafted,3.9,0.3,1.6,0.036,1758093.6666666667,23,1
-Ty Jerome,Virginia,77.0,195.0,1,16,Guard-Forward,Thunder,2019,1,24,9.9,3.6,3.5,0.091,3776415.0,23,1
+Ty Jerome,Virginia,77.0,195.0,1,16,Guard-Forward,Thunder,2019,1,24,9.9,3.6,3.5,0.091,3776415.0,24,1
 Cameron Johnson,North Carolina,80.0,210.0,1,23,Forward,Suns,2019,1,11,10.3,1.4,3.3,0.09,5655148.25,25,1
 James Johnson,Wake Forest,79.0,240.0,11,16,Forward,Mavericks,2009,1,16,5.7,1.7,3.0,0.077,16047100.0,34,11
 Keldon Johnson,Kentucky,77.0,220.0,1,3,Forward-Guard,Spurs,2019,1,29,13.9,2.0,6.5,0.1,3469080.75,21,1
@@ -248,7 +248,7 @@ Abdel Nader,Iowa State,77.0,225.0,3,11,Forward,Suns,2016,2,58,6.7,0.8,2.6,0.092,
 Raul Neto,Murcia,73.0,180.0,5,19,Guard,Wizards,2013,2,47,7.7,2.2,2.2,0.081,1620564.0,29,5
 Georges Niang,Iowa State,79.0,230.0,4,31,Forward,Jazz,2016,2,50,5.0,0.7,2.2,0.061,1783557.0,28,4
 Nerlens Noel,Kentucky,83.0,220.0,6,3,Center-Forward,Knicks,2013,1,6,4.8,0.6,6.0,0.083,5000000.0,27,7
-Jaylen Nowell,Washington,76.0,201.0,1,4,Guard,Timberwolves,2019,2,43,10.5,1.4,2.2,0.09,1743761.0,21,1
+Jaylen Nowell,Washington,76.0,201.0,1,4,Guard,Timberwolves,2019,2,43,10.5,1.4,2.2,0.09,1743761.0,22,1
 Frank Ntilikina,Strasbourg IG,76.0,200.0,3,11,Guard,Knicks,2017,1,8,4.3,0.8,1.2,0.037,7251302.5,22,3
 Kendrick Nunn,Oakland,74.0,190.0,1,25,Guard,Heat,Undrafted,Undrafted,Undrafted,13.3,2.6,3.2,0.09,3199981.5,25,2
 Jusuf Nurkic,Cedevita,83.0,290.0,6,27,Center,Trail Blazers,2014,1,16,9.8,2.8,7.7,0.103,12444444.5,26,6
@@ -267,7 +267,7 @@ Patrick Patterson,Kentucky,80.0,235.0,10,54,Forward,Clippers,2010,1,14,4.7,0.5,2
 Chris Paul,Wake Forest,72.0,175.0,15,3,Guard,Suns,2005,1,4,15.7,8.8,4.7,0.145,42784980.0,36,15
 Cameron Payne,Murray State,73.0,183.0,5,15,Guard,Suns,2015,1,14,7.2,3.7,2.1,0.112,1977011.0,26,5
 Elfrid Payton,Louisana-Lafayette,75.0,195.0,6,6,Guard,Knicks,2014,1,10,12.4,3.7,3.9,0.082,4767000.0,27,6
-Norvel Pelle,Iona,82.0,231.0,1,,Center,,Undrafted,Undrafted,Undrafted,2.3,0.3,2.0,-0.012,99020.0,28,1
+Norvel Pelle,Iona,82.0,231.0,1,6,Center,Knicks,Undrafted,Undrafted,Undrafted,2.3,0.3,2.0,-0.012,99020.0,28,1
 Mason Plumlee,Duke,83.0,254.0,7,24,Forward-Center,Pistons,2013,1,22,10.3,3.6,9.5,0.124,8220833.333333333,31,7
 Jakob Poeltl,Utah,85.0,245.0,4,25,Center,Spurs,2016,1,9,7.1,1.8,7.8,0.099,8750000.0,25,4
 Jordan Poole,Michigan,76.0,194.0,1,3,Guard,Warriors,2019,1,28,10.8,1.4,1.6,0.136,3484801.0,22,1
@@ -284,7 +284,7 @@ Naz Reid,Louisiana State,81.0,264.0,1,11,Center-Forward,Timberwolves,Undrafted,U
 Josh Richardson,Tennessee,77.0,200.0,5,0,Guard,Mavericks,2015,2,40,13.3,2.7,3.3,0.075,11240640.0,27,5
 Duncan Robinson,Michigan,79.0,215.0,2,55,Forward,Heat,Undrafted,Undrafted,Undrafted,12.5,1.7,3.8,0.07,3199981.5,27,2
 Jerome Robinson,Boston College,76.0,190.0,2,12,Guard,Wizards,2018,1,13,5.2,1.4,2.5,0.052,3737520.0,24,2
-Justin Robinson,Virginia Tech,73.0,195.0,1,,Guard,,2019,None,None,1.4,0.8,0.6,0.09315472779369628,99020.0,23,0
+Justin Robinson,Virginia Tech,73.0,195.0,1,12,Guard,Wizards,2019,None,None,1.4,0.8,0.6,0.09315472779369628,99020.0,23,0
 Mitchell Robinson,Western Kentucky,84.0,240.0,2,23,Center-Forward,Knicks,2018,2,36,8.6,0.6,8.4,0.104,1732959.0,23,2
 Isaiah Roby,Nebraska-Lincoln,80.0,230.0,1,22,Forward,Thunder,2019,2,45,9.0,1.7,5.5,0.095,1743761.0,23,1
 Rajon Rondo,Kentucky,73.0,180.0,14,7,Guard,Hawks,2006,1,21,3.9,3.5,2.0,0.095,8250000.0,35,14
@@ -308,14 +308,14 @@ Ben Simmons,Louisiana State,83.0,240.0,3,25,Guard-Forward,76ers,2016,1,1,16.1,7.
 Anfernee Simons,Edgewater HS (FL),75.0,181.0,2,1,Guard,Trail Blazers,2018,1,24,8.0,1.4,2.3,0.077,3983136.6666666665,22,2
 Alen Smailagic,Beko,82.0,215.0,1,6,Forward,Warriors,2019,2,39,1.7,0.0,0.0,-0.197,1743761.0,20,1
 Marcus Smart,Oklahoma State,75.0,220.0,6,36,Guard,Celtics,2014,1,6,12.8,5.4,2.8,0.09,13892856.5,27,6
-Ish Smith,Wake Forest,72.0,175.0,10,14,Guard,Wizards,Undrafted,Undrafted,Undrafted,5.2,4.7,3.5,0.094,6000000.0,32,10
+Ish Smith,Wake Forest,72.0,175.0,10,14,Guard,Wizards,Undrafted,Undrafted,Undrafted,5.2,4.7,3.5,0.094,6000000.0,33,10
 Tony Snell,New Mexico,78.0,213.0,7,19,Guard,Hawks,2013,1,20,5.6,1.4,2.3,0.072,12178571.0,29,7
 Edmond Sumner,Xavier,76.0,196.0,3,5,Guard,Pacers,2017,2,52,4.9,0.4,1.4,0.06,2240000.0,25,3
 Jayson Tatum,Duke,80.0,210.0,3,0,Forward-Guard,Celtics,2017,1,3,24.9,4.3,6.8,0.145,27160160.0,23,3
 Jeff Teague,Wake Forest,75.0,195.0,11,55,Guard,Celtics,2009,1,19,6.6,2.2,1.6,0.068,510589.0,33,11
 Garrett Temple,Louisiana State,77.0,195.0,10,17,Guard-Forward,Bulls,Undrafted,Undrafted,Undrafted,8.5,2.0,3.1,0.056,4767000.0,35,11
 Daniel Theis,Brose Bamberg,80.0,245.0,3,27,Forward-Center,Celtics,Undrafted,Undrafted,Undrafted,9.4,1.6,5.3,0.094,5000000.0,29,3
-Isaiah Thomas,Washington,69.0,185.0,8,4,Guard,,2011,2,60,18.1,5.0,2.5,0.09315472779369628,110998.0,32,8
+Isaiah Thomas,Washington,69.0,185.0,8,4,Guard,Celtics,2011,2,60,18.1,5.0,2.5,0.09315472779369628,110998.0,32,8
 Matt Thomas,Iowa State,76.0,190.0,1,21,Guard,Raptors,Undrafted,Undrafted,Undrafted,2.6,0.4,0.8,0.058,1842959.3333333333,26,1
 Klay Thompson,Washington State,78.0,215.0,8,11,Guard,Warriors,2011,1,11,21.5,2.4,3.8,0.103,39290400.0,31,9
 Tristan Thompson,Texas,81.0,254.0,9,13,Center-Forward,Celtics,2011,1,4,7.9,1.0,8.4,0.106,9489450.0,30,9
@@ -343,7 +343,7 @@ Andrew Wiggins,Kansas,79.0,197.0,6,22,Forward,Warriors,2014,1,1,17.7,2.1,4.6,0.0
 Grant Williams,Tennessee,78.0,236.0,1,12,Forward,Celtics,2019,1,22,5.0,0.9,2.9,0.043,3914584.0,22,1
 Kenrich Williams,TCU,78.0,210.0,2,34,Guard-Forward,Thunder,Undrafted,Undrafted,Undrafted,7.0,1.8,4.1,0.098,2000000.0,26,2
 Lou Williams,South Gwinnett HS (GA),73.0,175.0,15,23,Guard,Clippers,2005,2,45,12.0,3.5,2.1,0.103,8000000.0,34,15
-Zion Williamson,Duke,79.0,284.0,1,1,Forward,Pelicans,2019,1,1,25.7,3.4,7.0,0.154,13027239.75,20,1
+Zion Williamson,Duke,79.0,284.0,1,1,Forward,Pelicans,2019,1,1,25.7,3.4,7.0,0.154,13027239.75,21,1
 Dylan Windler,Belmont,78.0,196.0,0,9,Guard-Forward,Cavaliers,2019,1,26,5.4,1.1,3.6,0.087,3593235.0,24,1
 Justise Winslow,Duke,78.0,222.0,5,7,Forward-Guard,Grizzlies,2015,1,10,7.8,1.8,4.9,0.053,13000000.0,25,5
 Christian Wood,UNLV,82.0,214.0,4,35,Forward,Rockets,Undrafted,Undrafted,Undrafted,21.9,1.4,9.8,0.169,13666666.666666666,25,5
