@@ -1,0 +1,22 @@
+Linear Regression Model
+	best_params_: {'selectkbest__k': 6}
+	Most useful features
+	--------------------------------
+	PTS              0.579280
+	AST              0.364178
+	year_played      0.204195
+	REB              0.058857
+	DRAFT_ROUND_1    0.024058
+	PIE             -0.108458
+	Mean Absolute Error: $4.34 million
+========================================================
+
+Random Forsest Model
+	best_params_ : {'max_depth': 5, 'n_estimators': 112}
+	Top most important features: PST, Year_player, AST, PIE, and SEASON_EXP, age and REB
+	Mean Absolute Error: $3.53 million
+========================================================
+
+KNN Regression Model
+	best_params_ : {'n_neighbors': 13, 'weights': 'uniform'}
+	Mean Absolute Error: $5.29 million
